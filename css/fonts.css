@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'opensanshebrew-bold-webfont';
+    src:  url('../fonts/opensanshebrew-bold-webfont.eot') format('eot'),
+    url('../fonts/opensanshebrew-bold-webfont.svg') format('svg'),
+    url('../fonts/opensanshebrew-bold-webfont.ttf') format('ttf'),
+    url('../fonts/opensanshebrew-bold-webfont.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'opensanshebrew-regular';
+    src:  url('../fonts/opensanshebrew-regular-webfont.eot') format('eot'),
+    url('../fonts/opensanshebrew-regular-webfont.svg') format('svg'),
+    url('../fonts/opensanshebrew-regular-webfont.ttf') format('ttf'),
+    url('../fonts/opensanshebrew-regular-webfont.woff') format('woff');
+}
+
+body {
+    font-family: 'opensanshebrew-regular', sans-serif, arial;
+}
